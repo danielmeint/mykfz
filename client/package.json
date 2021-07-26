@@ -30,6 +30,8 @@
         "@material-ui/icons": "^4.11.2",
         "@material-ui/lab": "^4.0.0-alpha.58",
         "@material-ui/styles": "^4.11.4",
+        "babel-preset-es2015": "^6.24.1",
+        "babel-preset-stage-2": "^6.24.1",
         "clsx": "^1.1.1",
         "nfc-react-web": "^0.0.2",
         "pdfmake": "^0.1.71",
