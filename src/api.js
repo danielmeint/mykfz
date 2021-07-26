@@ -37,10 +37,10 @@ api.use("/users", user);
 api.use("/districts", districts);
 
 // Step 1:
-api.use(express.static(path.resolve(__dirname, "./client/dist")));
+api.use(express.static(path.resolve(__dirname, "../client/src")));
 // Step 2:
 api.get("*", function (request, response) {
-  response.sendFile(path.resolve(__dirname, "./client/dist", "index.html"));
+  response.sendFile(path.resolve(__dirname, "../client/src", "index.html"));
 });
 
 module.exports = api;
