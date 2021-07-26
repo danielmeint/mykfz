@@ -8,9 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "devstart": "nodemon ./index.js",
     "build": "cd client && npm run build",
-    "install-client": "cd client && npm install",
+    "install-client": "cd client && npm install --force && npm install --dev --force",
     "heroku-postbuild": "npm run install-client && npm run build",
-    "heroku-prebuild": "npm install --dev",
+    "heroku-prebuild": "npm install --dev --force",
     "server": "nodemon index.js",
     "develop": "concurrently --kill-others-on-fail \"npm run server\" \"npm run start --prefix client\"",
     "start": "concurrently --kill-others-on-fail \"npm run server\" \"npm run start --prefix client\""
