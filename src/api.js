@@ -23,11 +23,11 @@ api.use(bodyParser.urlencoded({ extended: false }));
 api.use(middlewares.allowCrossDomain);
 
 // Basic route
-api.get("/", (req, res) => {
-  res.json({
-    name: "MyKfz Backend",
-  });
-});
+// api.get("/", (req, res) => {
+//   res.json({
+//     name: "MyKfz Backend",
+//   });
+// });
 
 // API routes
 api.use("/auth", auth);
