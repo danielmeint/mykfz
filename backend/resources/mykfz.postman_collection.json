@@ -1,0 +1,883 @@
+{
+	"info": {
+		"_postman_id": "cad71900-bd1b-42d7-a656-daa467ac8916",
+		"name": "mykfz",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "auth",
+			"item": [
+				{
+					"name": "Register User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"mike12\",\n    \"password\": \"pass\",\n    \"lastName\": \"Effzett\",\n    \"firstName\": \"Mike\",\n    \"address\": {\n        \"district\": \"Munich\",\n        \"zipCode\": \"80999\"\n    },\n    \"identityDocument\": {\n        \"idId\": \"LF30\",\n        \"expirationDate\": \"2025-04-01\"\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/auth/register",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"mike12\",\n    \"password\": \"pass\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/auth/login",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "vehicle",
+			"item": [
+				{
+					"name": "Get All Vehicles",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "192.168.178.111:3000/vehicles",
+							"host": [
+								"192",
+								"168",
+								"178",
+								"111"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Vehicles Of Owner",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/vehicles?owner=60b9afdadad5b31be63de066",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles"
+							],
+							"query": [
+								{
+									"key": "owner",
+									"value": "60b9afdadad5b31be63de066"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Vehicles By Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/vehicles/60b0c39a4cd09acea7175a45",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60b0c39a4cd09acea7175a45"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Vehicles By Id Copy",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"state\": \"REGISTERED\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/vehicles/60f970f842b089f4e7b5c97a",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60f970f842b089f4e7b5c97a"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Vehicle",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwYjlhZmRhZGFkNWIzMWJlNjNkZTA2NiIsInVzZXJuYW1lIjoidGVzdCIsImlhdCI6MTYyMjc4MzA5MCwiZXhwIjoxNjIyODY5NDkwfQ.hIK8sgxmWHNYFyTmzH0rrdz_z3rfsJzYsL1ruQDUgbc",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"owner\": \"60c5b66cb32d3d3a1d3ed33f\",\n    \"vin\": \"WP0CB29906S769518\",\n    \"make\": \"PORSCHE\",\n    \"model\": \"911\",\n    \"licensePlate\": null,\n    \"state\": \"NEW\",\n    \"generalInspectionMonth\": 4,\n    \"generalInspectionYear\": 2023\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/vehicles",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Vehicle",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwYWZiNGRiMTE2NjFlNTlkOGI1ZTgxZiIsInVzZXJuYW1lIjoidXNlciIsImlhdCI6MTYyMjE4MzEyMywiZXhwIjoxNjIyMjY5NTIzfQ.6Evnz00DcYpENJrWHfp2nk0YMRY7ZLXH_73PZmEunZ8"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"license_plate\": \"M - MD 1000\",\n    \"owner\": \"Daniel\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/vehicles/60fa6c521c4b431eaa552665",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60fa6c521c4b431eaa552665"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "process",
+			"item": [
+				{
+					"name": "Get Processes of Vehicle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/vehicles/60cc79f3b041c38cf054eddb/processes",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60cc79f3b041c38cf054eddb",
+								"processes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Process for Vehicle",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "   {\n        \"processType\": \"REGISTRATION\"\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/vehicles/60cc36af5ea7e01f23ac9c6b/processes",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60cc36af5ea7e01f23ac9c6b",
+								"processes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Specific Process of Vehicle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/vehicles/60cc79f3b041c38cf054eddb/processes/60cc7a46b041c38cf054eddd",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60cc79f3b041c38cf054eddb",
+								"processes",
+								"60cc7a46b041c38cf054eddd"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Specific Process of Vehicle",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"state\": \"PENDING\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/vehicles/60fa6c521c4b431eaa552665/processes/60fa742f3a33615945e25ff8",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60fa6c521c4b431eaa552665",
+								"processes",
+								"60fa742f3a33615945e25ff8"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Specific Process of Vehicle As PDF",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/vehicles/60b0f476b6d28417d04cb590/processes/60b0f476b6d28417d04cb591?format=pdf",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60b0f476b6d28417d04cb590",
+								"processes",
+								"60b0f476b6d28417d04cb591"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "pdf"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Process via Put",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"processes\": []\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/vehicles/60cc36af5ea7e01f23ac9c6b",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"vehicles",
+								"60cc36af5ea7e01f23ac9c6b"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "user",
+			"item": [
+				{
+					"name": "Get All Users",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/users",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Specific User",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/users/60fc086445e13ca5eecb653f",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"60fc086445e13ca5eecb653f"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete User",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/users/60f83a774b23dec878147c6c",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"60f83a774b23dec878147c6c"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create User",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\": \"muenchen_land\",\n    \"password\": \"password\",\n    \"isDistrictUser\": true,\n    \"district\": \"60cc3609a88071d75c07e70d\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/users",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "district",
+			"item": [
+				{
+					"name": "Get All Districts",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/districts",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"districts"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Specific District",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/districts/60cc3609a88071d75c07e70d",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"districts",
+								"60cc3609a88071d75c07e70d"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Specific District By Username",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/districts/user/altmarkkreissalzwedel",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"districts",
+								"user",
+								"altmarkkreissalzwedel"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Processes for Specific District",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/districts/60cc3609a88071d75c07e70d/processes",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"districts",
+								"60cc3609a88071d75c07e70d",
+								"processes"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Users for Specific District",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/districts/60cc3609a88071d75c07e70d/users",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"districts",
+								"60cc3609a88071d75c07e70d",
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Vehicles for Specific District",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/districts/60cc3609a88071d75c07e70d/vehicles",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"districts",
+								"60cc3609a88071d75c07e70d",
+								"vehicles"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "licensePlate",
+			"item": [
+				{
+					"name": "Get All Plates",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/licensePlates",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"licensePlates"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Plate",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"areaCode\": \"M\",\n    \"digits\": 29,\n    \"letters\": \"DA\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/licensePlates",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"licensePlates"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Plate",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/licensePlates/60cc491c5e124645d96b137c",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"licensePlates",
+								"60cc491c5e124645d96b137c"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Plate Reservations Of Owner",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/users/60cc79a4b041c38cf054edda/licensePlateReservations",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"60cc79a4b041c38cf054edda",
+								"licensePlateReservations"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create Plate Reservation for existing plate",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"licensePlate\": \"60cd932bec606d386ebfe317\",\n    \"expiryDate\": \"2022-07-09\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/users/60cc36a15ea7e01f23ac9c6a/licensePlateReservations",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"60cc36a15ea7e01f23ac9c6a",
+								"licensePlateReservations"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update Plate Reservation",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"combination\": \"M-MM 123\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/plateReservations/60c5b0c0f29f5d32446c9ed3",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"plateReservations",
+								"60c5b0c0f29f5d32446c9ed3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Plate Reservation",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/users/60cc36a15ea7e01f23ac9c6a/licensePlateReservations/60fbfd086776da972cab9f97",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"60cc36a15ea7e01f23ac9c6a",
+								"licensePlateReservations",
+								"60fbfd086776da972cab9f97"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Plate Reservation By Plate",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "localhost:3000/users/60fbfe60cdccec9902032f9b/licensePlateReservations/plate/60fbfee9cdccec9902032f9c",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"users",
+								"60fbfe60cdccec9902032f9b",
+								"licensePlateReservations",
+								"plate",
+								"60fbfee9cdccec9902032f9c"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get All Possible Combinations Matching Pattern",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/licensePlates/all?areaCode=M&letters=D?&digits=?91",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"licensePlates",
+								"all"
+							],
+							"query": [
+								{
+									"key": "areaCode",
+									"value": "M"
+								},
+								{
+									"key": "letters",
+									"value": "D?"
+								},
+								{
+									"key": "digits",
+									"value": "?91"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Available Combinations Matching Pattern Copy",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost:3000/licensePlates/available?areaCode=M&letters=D?&digits=?9",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"licensePlates",
+								"available"
+							],
+							"query": [
+								{
+									"key": "areaCode",
+									"value": "M"
+								},
+								{
+									"key": "letters",
+									"value": "D?"
+								},
+								{
+									"key": "digits",
+									"value": "?9"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

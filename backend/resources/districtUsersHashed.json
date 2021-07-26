@@ -1,0 +1,1997 @@
+[
+    {
+        "username": "albdonaukreisulm",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisahrweiler",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaltenkirchenwesterwald",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaltenburgerland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "staedteregionaachen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "altmarkkreissalzwedel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaltoetting",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisalzeyworms",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaichachfriedberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisammerland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtansbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisansbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisanhaltbitterfeld",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtaschaffenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaschaffenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtamberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtaugsburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisambergsulzbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaurich",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisaugsburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbadkreuznach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbadenbaden",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbamberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbamberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbadduerkheimbadduerkheimanderweinstrasse",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbadkissingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbarnim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbautzen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbayreuth",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbadtoelzwolfratshausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbayreuth",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisberchtesgadenerland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbiberach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbielefeld",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbirkenfeld",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtberlin",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbochum",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbernkastelwittlich",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "bodenseekreisfriedrichshafen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbonn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisboeblingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisbergstrasseheppenheimbergstrasse",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbottrop",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisboerdeboerdekreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisborken",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisbreisgauhochschwarzwaldfreiburgimbreisgau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtgemeindebremen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "seestadtbremerhaven",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiscalw",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "burgenlandkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiscelle",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "brandenburganderhavel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreischam",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtbraunschweig",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtcoburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtchemnitz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiscoburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreiscoesfeld",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiscochemzell",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiscloppenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiscuxhaven",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtcottbus",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdachau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtdarmstadt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdahmespreewald",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtdelmenhorst",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtdessaurosslau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdeggendorf",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdiepholz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdillingenanderdonau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdarmstadtdieburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdingolfinglandau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisdithmarschenheide",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisdonauries",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtduisburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtdresden",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "donnersbergkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtduesseldorf",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisdueren",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiseichsfeld",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisebersberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiseichstaett",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtdortmund",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtemden",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisemmendingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisemsland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadteisenach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "enneperuhrkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "eifelkreisbitburgpruem",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "enzkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiserding",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiselbeelster",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadterlangen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadterfurt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiserlangenhoechstadt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreiseuskirchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtflensburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisesslingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisforchheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtessen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtfrankenthalpfalz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtfrankfurtammain",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtfrankfurtoder",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "erzgebirgskreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtfreiburgimbreisgau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfriesland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfreising",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfreyunggrafenau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtfuerth",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfulda",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfuerstenfeldbruck",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfuerth",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgarmischpartenkirchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisfreudenstadt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtgelsenkirchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgifhorn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtgera",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgoeppingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgoettingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgoerlitz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgiessen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgermersheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgoslar",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgotha",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgrafschaftbentheimnordhorn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisgreiz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisgrossgerau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadthalleandersaale",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "hansestadthamburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishamelnpyrmont",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadthagen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisguetersloh",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadthamm",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "regionhannover",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisguenzburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisharburgwinsenluhe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisharz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishassberge",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisheidekreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishavelland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtheilbronn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisheinsberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisheidenheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishelmstedt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisheilbronn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisherford",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtheidelberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtherne",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishildesheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "hochsauerlandkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "hochtaunuskreisbadhomburgvdhoehe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadthof",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishersfeldrotenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishildburghausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisherzogtumlauenburgratzeburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreishof",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "hohenlohekreiskuenzelsau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisholzminden",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtingolstadt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreishoexter",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtjena",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisjerichowerland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkaiserslautern",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkarlsruhe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskaiserslautern",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskarlsruhe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkassel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskassel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkaufbeuren",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskelheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkemptenallgaeu",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkiel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskitzingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkoblenz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "ilmkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkoeln",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreiskleve",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskonstanz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtkrefeld",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskronach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskulmbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiskusel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kyffhaeuserkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtlandshut",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreislandsbergamlech",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreislandshut",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisleer",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtleipzig",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtlandauinderpfalz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtleverkusen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisleipzig",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreislichtenfels",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreislimburgweilburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "lahndillkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreislippe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "hansestadtluebeck",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisluechowdannenberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreislindaubodensee",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisludwigsburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisloerrach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtludwigshafenamrhein",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisludwigslustparchim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreislueneburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmagdeburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "maintauberkreistauberbischofsheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "maintaunuskreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismainspessart",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmainz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmannheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismainzbingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismansfeldsuedharz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismarburgbiedenkopf",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "maerkischerkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismaerkischoderland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "mainkinzigkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismayenkoblenz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismecklenburgischeseenplatte",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmemmingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismeissen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismiltenberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreismindenluebbecke",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreismettmann",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismerzigwadern",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmoenchengladbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismittelsachsenfreiberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismuehldorfaminn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismiesbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmuenchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmuelheimanderruhr",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtmuenster",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "neckarodenwaldkreismosbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneuburgschrobenhausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreismuenchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneustadtanderaischbadwindsheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtneumuenster",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneustadtanderwaldnaab",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneunkirchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtneustadtanderweinstrasse",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneumarktinderoberpfalz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneuulm",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisnienburgweser",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisneuwied",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisnordfriesland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisnordhausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtnuernberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisnortheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisoberallgaeu",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtoberhausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "oberbergischerkreisgummersbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisoberhavel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisnordwestmecklenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisoberspreewaldlausitz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisnordsachsentorgau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisoffenbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "odenwaldkreiserbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtoffenbachammain",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisoldenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtoldenburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisolpe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "ortenaukreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtosnabrueck",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisoderspree",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisosterholz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisostholstein",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "ostalbkreisaalen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisostallgaeu",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisostprignitzruppin",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreispaderborn",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtpassau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisosnabrueck",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreispassau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreispeine",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtpirmasens",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisploen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtpforzheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreispotsdammittelmark",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtpotsdam",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrastatt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisprignitz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisrecklinghausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreispfaffenhofenanderilm",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisregen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtregensburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisregensburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreispinneberghelgoland",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtremscheid",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "remsmurrkreiswaiblingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisravensburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheingautaunuskreisruedesheimamrhein",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinerftkreisbergheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinischbergischerkreisbergischgladbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisrendsburgeckernfoerde",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinhunsrueckkreissimmernhunsrueck",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisreutlingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinkreisneuss",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinlahnkreisbadems",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinsiegkreissiegburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinneckarkreisheidelberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrhoengrabfeldbadneustadtadsaale",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "rheinpfalzkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtrosenheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrosenheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "hansestadtrostock",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrotenburgwuemme",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrostock",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisroth",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "saaleholzlandkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "saalekreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrottalinnpfarrkirchen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissaalfeldrudolstadt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "saaleorlakreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "regionalverbandsaarbruecken",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissaarlouis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisrottweil",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "saarpfalzkreishomburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissanktwendel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtsalzgitter",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisschaumburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "salzlandkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisschmalkaldenmeiningen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtschwabach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissaechsischeschweizosterzgebirgepirna",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisschleswigflensburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisschwandorf",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisschwaebischhall",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "schwarzwaldbaarkreisvillingenschwenningen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtschweinfurt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtschwerin",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisschweinfurt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "schwalmederkreishombergefze",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreissoest",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissigmaringen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreissegeberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtsolingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissonneberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissoemmerda",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtspeyer",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreissiegenwittgenstein",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisspreeneisse",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisstade",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreissteinburgitzehoe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreissteinfurt",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisstendal",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisstormarnbadoldesloe",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtstraubing",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisstraubingbogen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisstarnberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtstuttgart",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreistirschenreuth",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisteltowflaeming",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreistraunstein",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissuedlicheweinstrasse",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreistriersaarburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreistuebingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreistuttlingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreissuedwestpfalzpirmasens",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisuckermark",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtulm",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadttrier",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "unstruthainichkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisunna",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisunterallgaeumindelheim",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisverden",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisvechta",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisuelzen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisvorpommerngreifswald",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "vogtlandkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreisviersen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisvulkaneifeldaun",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswaldeckfrankenbergkorbach",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisvorpommernruegen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswaldshut",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreiswarendorf",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtweideninderoberpfalz",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtweimar",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisweilheimschongau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "wartburgkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "weimarerlandapolda",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreisweissenburggunzenhausen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswesermarschbrakeunterweser",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "werrameissnerkreiseschwege",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "kreiswesel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "vogelsbergkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "westerwaldkreis",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswittenberg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswittmund",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "wetteraukreisfriedberghessen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtwolfsburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswolfenbuettel",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtwiesbaden",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswunsiedelimfichtelgebirge",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtworms",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtwuppertal",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtwuerzburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtwilhelmshaven",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "zollernalbkreisbalingen",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "stadtzweibruecken",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiszwickau",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    },
+    {
+        "username": "landkreiswuerzburg",
+        "password": "$2a$08$ZiqlWV4lkIh0AUZcHuEsT./.hXSImKl0b5brjgiAMePSJU34DKhsC",
+        "isDistrictUser": true
+    }
+]
